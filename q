@@ -1,0 +1,155 @@
+[33mcommit 7c45054c726019891058c3967978f87da33f0777[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Sun May 19 15:57:13 2019 +0530
+
+    Employee.java added
+
+ Employee.java | 2 [32m+[m[31m-[m
+ Runner.java   | 3 [32m++[m[31m-[m
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 43b0f6cf27a31104db6f3dec21d226af6b4196f0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msprint1[m[33m)[m
+Author: BIJO JACOB <bijo.jacob@rntbci.com>
+Date:   Sun May 19 08:29:23 2019 +0530
+
+    Runner.java BiFunction added
+
+ Runner.java | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 4bc3342c6535255f46527df623ee223c73354888[m
+Author: BIJO JACOB <bijo.jacob@rntbci.com>
+Date:   Sun May 19 08:21:37 2019 +0530
+
+    4th commit
+
+ Runner.java | 5 [32m+[m[31m----[m
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+[33mcommit e75680c7af0e892371489968fa45865252d55d64[m
+Merge: db68aa6 bab4931
+Author: BIJO JACOB <bijo.jacob@rntbci.com>
+Date:   Sun May 19 08:19:10 2019 +0530
+
+    merged
+
+[33mcommit db68aa60ea059c926ba4024b56bd693e61caf3e2[m
+Author: BIJO JACOB <bijo.jacob@rntbci.com>
+Date:   Sun May 19 08:16:22 2019 +0530
+
+    3rd commit
+
+ Runner.java | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit bab49312f3948d1395e04b92a721913eb94a10e7[m
+Author: BJB-PERSONAL <47378542+BJB-PERSONAL@users.noreply.github.com>
+Date:   Sun May 19 08:13:49 2019 +0530
+
+    Update Runner.java
+
+ Runner.java | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 854c896aeb0ab18a620aa9402dc0302162fe7f1e[m
+Author: BIJO JACOB <bijo.jacob@rntbci.com>
+Date:   Sun May 19 08:10:02 2019 +0530
+
+    2nd commit
+
+ Employee.java | 3 [32m+++[m
+ README.md     | 4 [32m++++[m
+ Runner.java   | 3 [32m++[m[31m-[m
+ 3 files changed, 9 insertions(+), 1 deletion(-)
+
+[33mcommit 52233e050b09342591efb13d2031fc2f91e1c383[m
+Author: BIJO JACOB <bijo.jacob@rntbci.com>
+Date:   Sun May 19 07:57:00 2019 +0530
+
+    added date - README.md
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 7a3d6c934adfa2602121dbab467fe79de63d0d34[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 19:07:17 2019 +0530
+
+    Revert "changes in Runner"
+    
+    This reverts commit cf833caf9cc68e61e115c154315b94c283516d41.
+
+ Runner.java | 4 [31m----[m
+ 1 file changed, 4 deletions(-)
+
+[33mcommit 87b356f51eb679beb25b473efd161cafc8d4ca82[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 18:59:45 2019 +0530
+
+    commit runner
+
+ Runner.java | 8 [31m--------[m
+ 1 file changed, 8 deletions(-)
+
+[33mcommit cf833caf9cc68e61e115c154315b94c283516d41[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 18:55:51 2019 +0530
+
+    changes in Runner
+
+ Runner.java | 8 [32m++++++++[m
+ 1 file changed, 8 insertions(+)
+
+[33mcommit 54a700f78477f6b5156f6acc2a3547dd6af23a57[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 17:39:48 2019 +0530
+
+    4th commit
+
+ Runner.java | 5 [32m+++[m[31m--[m
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 32b3c1ac28534b1c84efa3f2381f644937138cbc[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 17:21:24 2019 +0530
+
+    commit
+
+ Runner.java | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 06d009654266de83c440d97afcbdff70817b70fe[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 16:34:56 2019 +0530
+
+    2nd commit
+
+ Runner.java | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit dacde5ddf2b3b8a707a1719c8a07a5eb7ffc260c[m
+Author: Bijo Jacob <bijo.jacob@rntbci.com>
+Date:   Fri May 17 15:55:13 2019 +0530
+
+    Runner.java 1st commit
+
+ Runner.java | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit b238b8d5a4784034cba4b11879b2c5d6a4ff3883[m
+Author: BJB-PERSONAL <47378542+BJB-PERSONAL@users.noreply.github.com>
+Date:   Fri May 17 15:49:40 2019 +0530
+
+    Update and rename README.md to Runner.java
+
+ Runner.java | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
+
+[33mcommit 5531c0dc0e15574faf3314213f7351e13d951f6b[m
+Author: BJB-PERSONAL <47378542+BJB-PERSONAL@users.noreply.github.com>
+Date:   Fri May 17 15:47:16 2019 +0530
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
